@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">APODApp</string>
+    <string name="app_name">WalE Photo Of The Day</string>
+    <string name="api_key">N3kNb3OutVNcg7zjN3qY49d20KDnmzHHCfgrPJ67</string>
 </resources>
